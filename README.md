@@ -39,7 +39,7 @@
 - **기획서 제출 (1/11)**
     - 아래 양식에 맞게 기획서 제출
     - 결과물의 최소 기능에 대한 설명이 있어야 함(필수)
-    - 양식 다운로드: [(양식)프로젝트명_기획서_팀장이름]()
+    - 양식 다운로드: [(양식)프로젝트명 기획서 팀장이름](https://github.com/sejongsmarcle/2025_2nd_SMARTHON/blob/main/(%EC%96%91%EC%8B%9D)%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%AA%85%20%EA%B8%B0%ED%9A%8D%EC%84%9C%20%ED%8C%80%EC%9E%A5%EC%9D%B4%EB%A6%84.docx)
     - 제출 위치: [(폴더)기획서 제출 위치](https://github.com/sejongsmarcle/2025_2nd_SMARTHON/tree/main/%EC%A0%9C%EC%B6%9C%20%EC%9E%90%EB%A3%8C%20DB/1.%20%EA%B8%B0%ED%9A%8D%EC%84%9C)
 
 - **MVP 제출 (1/17)**
