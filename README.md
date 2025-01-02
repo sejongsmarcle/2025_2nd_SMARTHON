@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/783d9f3d-702c-4126-8117-6d5583e29d07)
+![SMARTHON 배너 (2)](https://github.com/user-attachments/assets/0c45e8cb-8ad3-4923-9d9a-6e599034eb7f)
+
 
 # 2025 제2회 SMARTHON
 > **2025 제2회 SMARTHON**에 참가하신 여러분을 환영합니다!
