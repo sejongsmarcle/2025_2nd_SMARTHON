@@ -39,20 +39,20 @@
 - **기획서 제출 (1/11)**
     - 아래 양식에 맞게 기획서 제출
     - 결과물의 최소 기능에 대한 설명이 있어야 함(필수)
-    - 양식 다운로드: [(양식)프로젝트명 기획서 팀장이름](https://github.com/sejongsmarcle/2025_2nd_SMARTHON/blob/main/(%EC%96%91%EC%8B%9D)%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%AA%85%20%EA%B8%B0%ED%9A%8D%EC%84%9C%20%ED%8C%80%EC%9E%A5%EC%9D%B4%EB%A6%84.docx)
-    - 제출 위치: [(폴더)기획서 제출 위치](https://github.com/sejongsmarcle/2025_2nd_SMARTHON/tree/main/%EC%A0%9C%EC%B6%9C%20%EC%9E%90%EB%A3%8C%20DB/1.%20%EA%B8%B0%ED%9A%8D%EC%84%9C)
+    - 양식 다운로드: `추후 공개`
+    - 제출 위치: [(폴더)기획서 제출 위치](https://github.com/sejongsmarcle/2025_2nd_SMARTHON/tree/main/02.%20%EC%82%AC%EC%A0%84%20%EA%B0%9C%EB%B0%9C%20%EC%9E%90%EB%A3%8C%20DB/1.%20%EA%B8%B0%ED%9A%8D%EC%84%9C)
 
 - **MVP 제출 (1/17)**
     - Minimum Viable Product, MVP
     - 프로젝트의 최소한의 기능을 수행하는 프로토타입 제출
-    - 기획서에서 제시한 최소 기능을 수행하는 영상
-    - 제출 위치: [(폴더)MVP 제출 위치](https://github.com/sejongsmarcle/2025_2nd_SMARTHON/tree/main/%EC%A0%9C%EC%B6%9C%20%EC%9E%90%EB%A3%8C%20DB/2.%20MVP%20%EC%9E%91%EB%8F%99%20%EC%98%81%EC%83%81)
+    - 기획서에서 제시한 최소 기능을 수행하는 **영상**
+    - 제출 위치: [(폴더)MVP 제출 위치](https://github.com/sejongsmarcle/2025_2nd_SMARTHON/tree/main/02.%20%EC%82%AC%EC%A0%84%20%EA%B0%9C%EB%B0%9C%20%EC%9E%90%EB%A3%8C%20DB/2.%20MVP%20%EC%9E%91%EB%8F%99%20%EC%98%81%EC%83%81)
 
 - **사전개발 발표자료 제출 (1/20)**
     - 사전개발 기간 동안의 결과물 발표
     - 5장, 2분 분량의 발표 준비(순서 랜덤)
     - ppt 양식: 디자인 없는 흰색 바탕의 기본 템플릿 사용
-    - 제출 위치: [(폴더)사전개발 발표자료 제출 위치](https://github.com/sejongsmarcle/2025_2nd_SMARTHON/tree/main/%EC%A0%9C%EC%B6%9C%20%EC%9E%90%EB%A3%8C%20DB/3.%20%EC%82%AC%EC%A0%84%EA%B0%9C%EB%B0%9C%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
+    - 제출 위치: [(폴더)사전개발 발표자료 제출 위치](https://github.com/sejongsmarcle/2025_2nd_SMARTHON/tree/main/02.%20%EC%82%AC%EC%A0%84%20%EA%B0%9C%EB%B0%9C%20%EC%9E%90%EB%A3%8C%20DB/3.%20%EC%82%AC%EC%A0%84%20%EA%B0%9C%EB%B0%9C%20%EB%82%B4%EC%9A%A9%20%EB%B0%9C%ED%91%9C)
 
 - 스마톤 **사전개발 기간 일정(1/8~1/20)**
 
