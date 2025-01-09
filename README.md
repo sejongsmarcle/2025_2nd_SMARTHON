@@ -46,8 +46,8 @@
 - **MVP 제출 (1/17)**
     - Minimum Viable Product, MVP
     - 프로젝트의 최소한의 기능을 수행하는 프로토타입 제출
-    - 기획서에서 제시한 최소 기능을 수행하는 **영상**
-    - 제출 위치: [(폴더)MVP 제출 위치](https://github.com/sejongsmarcle/2025_2nd_SMARTHON/tree/main/02.%20%EC%82%AC%EC%A0%84%20%EA%B0%9C%EB%B0%9C%20%EC%9E%90%EB%A3%8C%20DB/2.%20MVP%20%EC%9E%91%EB%8F%99%20%EC%98%81%EC%83%81)
+    - 기획서에서 제시한 최소 기능에 대한 자료(영상도 가능)
+    - 제출 위치: [(폴더)MVP 제출 위치](https://github.com/sejongsmarcle/2025_2nd_SMARTHON/tree/main/02.%20%EC%82%AC%EC%A0%84%20%EA%B0%9C%EB%B0%9C%20%EC%9E%90%EB%A3%8C%20DB/2.%20MVP%20%EC%A0%9C%EC%B6%9C%20%EC%9E%90%EB%A3%8C)
 
 - **사전개발 발표자료 제출 (1/20)**
     - 사전개발 기간 동안의 결과물 발표
