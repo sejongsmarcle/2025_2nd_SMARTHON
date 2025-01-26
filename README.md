@@ -51,7 +51,7 @@
 
 - **사전개발 발표자료 제출 (1/20)**
     - 사전개발 기간 동안의 결과물 발표
-    - 5장, 2분 분량의 발표 준비(순서 랜덤)
+    - 5장, 3분 분량의 발표 준비(순서 랜덤)
     - ppt 양식: 디자인 없는 흰색 바탕의 기본 템플릿 사용
     - 제출 위치: [(폴더)사전개발 발표자료 제출 위치](https://github.com/sejongsmarcle/2025_2nd_SMARTHON/tree/main/02.%20%EC%82%AC%EC%A0%84%20%EA%B0%9C%EB%B0%9C%20%EC%9E%90%EB%A3%8C%20DB/3.%20%EC%82%AC%EC%A0%84%20%EA%B0%9C%EB%B0%9C%20%EB%82%B4%EC%9A%A9%20%EB%B0%9C%ED%91%9C)
 
@@ -203,3 +203,6 @@
 
 ## 참고 자료
 [2024 1ST SMARTHON](https://github.com/sejongsmarcle/2024_1st_SMARTHON)
+
+## 2025 2nd SMARTHON 최종 발표
+[2025 2ND SMARTHON](https://youtu.be/9WBhYgPT6lk)
